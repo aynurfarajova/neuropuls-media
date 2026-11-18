@@ -1,1 +1,7 @@
 out/
+node_modules/
+r_az.log
+r_en.log
+run.sh
+package.json
+package-lock.json
