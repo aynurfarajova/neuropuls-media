@@ -5,3 +5,4 @@ r_en.log
 run.sh
 package.json
 package-lock.json
+r_*.log
